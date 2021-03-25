@@ -1,0 +1,79 @@
+.grey-background {
+  background-color: lightgrey;
+}
+
+.blue-background {
+  background-color: lightblue;
+}
+
+.coral-background {
+  background-color: lightcoral;
+}
+
+.yellow-background {
+  background-color: lightgoldenrodyellow;
+}
+
+.salmon-background {
+  background-color: lightsalmon;
+}
+
+.button--blue {
+  background-color: lightblue;
+}
+
+.button--coral {
+  background-color: lightcoral;
+}
+
+.button--yellow {
+  background-color: lightgoldenrodyellow;
+}
+
+.button--salmon {
+  background-color: lightsalmon;
+}
+
+.menu__buttons li {
+  padding-left: 10px;
+  padding-top: 10px;
+  height: 30px;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.menu__hamburger {
+  height: 30px;
+  width: auto;
+  padding: 10px;
+}
+
+.menu__buttons {
+  width: 250px;
+  position: absolute;
+  top: 50px;
+  left: -250px;
+  text-align: center;
+}
+
+.menu {
+  height: 30px;
+  width: 30px;
+}
+
+.button {
+  padding-left: 10px;
+}
+
+.moveOut {
+  -webkit-transform: translateX(200px);
+          transform: translateX(200px);
+  -webkit-transition-timing-function: ease-out;
+          transition-timing-function: ease-out;
+  -webkit-transition: 500ms;
+  transition: 500ms;
+}
+/*# sourceMappingURL=style.css.map */

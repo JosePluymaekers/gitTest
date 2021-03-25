@@ -1,0 +1,30 @@
+@import "./constants";
+* {
+    padding: 0px;
+    margin: 0px;
+
+}  
+
+.menu__hamburger {
+    height: 30px;
+    width: auto;
+    padding: 10px;
+}
+
+.menu__buttons {
+    width: 250px;
+    position: absolute;
+    top: 50px;
+    left: -240px;   
+    text-align: center;
+}   
+
+.button {
+    padding-left: 10px;
+}
+
+.menu:hover .menu__buttons{
+        transform: translateX(200px); 
+        transition-timing-function: ease-in-out;
+        transition: 500ms;  
+} 

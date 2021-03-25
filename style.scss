@@ -1,0 +1,35 @@
+@import "./constants";
+* {
+    padding: 0px;
+    margin: 0px;
+}  
+
+.menu__hamburger {
+    height: 30px;
+    width: auto;
+    padding: 10px;
+}
+
+.menu__buttons {
+    width: 250px;
+    position: absolute;
+    top: 50px;
+    left: -250px;   
+    text-align: center;
+}   
+.menu{
+height: 30px;
+width: 30px;
+}
+
+.button {
+    padding-left: 10px;
+}
+
+.moveOut{
+    transform: translateX(200px); 
+    transition-timing-function: ease-out;
+    transition: 500ms;   
+}
+
+

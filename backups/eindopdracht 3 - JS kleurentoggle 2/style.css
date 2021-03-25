@@ -1,0 +1,63 @@
+.grey-background {
+  background-color: lightgrey;
+}
+
+.blue-background {
+  background-color: lightblue;
+}
+
+.coral-background {
+  background-color: lightcoral;
+}
+
+.yellow-background {
+  background-color: lightgoldenrodyellow;
+}
+
+.salmon-background {
+  background-color: lightsalmon;
+}
+
+.button--blue {
+  background-color: lightblue;
+  padding-left: 10px;
+  height: 35px;
+}
+
+.button--coral {
+  background-color: lightcoral;
+  padding-left: 10px;
+  height: 35px;
+}
+
+.button--yellow {
+  background-color: lightgoldenrodyellow;
+  padding-left: 10px;
+  height: 35px;
+}
+
+.button--salmon {
+  background-color: lightsalmon;
+  padding-left: 10px;
+  height: 35px;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  text-decoration: none;
+}
+
+.menu__hamburger {
+  height: 30px;
+  width: auto;
+}
+
+.menu__buttons {
+  width: 250px;
+}
+
+.button {
+  padding-left: 10px;
+}
+/*# sourceMappingURL=style.css.map */

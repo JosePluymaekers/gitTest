@@ -1,0 +1,19 @@
+@import "./constants";
+* {
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+}  
+
+
+.menu__hamburger {
+    height: 30px;
+    width: auto;
+}
+.menu__buttons {
+    width: 250px;
+}   
+
+.button {
+    padding-left: 10px;
+}
